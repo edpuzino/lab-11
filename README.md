@@ -1,3 +1,8 @@
+[![Build Status](https://www.travis-ci.org/edpuzino/lab-11.svg?branch=master)](https://www.travis-ci.org/edpuzino/lab-11)
+
+
+* Unable to link this repo to heroku for some reason.
+
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - ORM
 ===============================================
 
